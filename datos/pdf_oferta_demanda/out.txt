@@ -1,0 +1,1210 @@
+TransMilenio en Cifras                                                       Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público  Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido
+
+Oferta del Sistema
+  Concesionarios de Operación
+  Infraestructura
+  Rutas y Servicios
+  Flota del Sistema
+
+Demanda del Sistema
+  Temporalidad en la demanda
+  Demanda Total del Sistema
+  Demanda TransMiTroncal
+    Troncal - Estaciones y Portales
+    Extensión Soacha
+    Componente Dual
+    Componente TransMiCable
+  Demanda TransMiZonal
+    Zonal - Paraderos y Servicios
+    Zonal - Concesionarios
+  Transbordos
+
+Índices de eficiencia
+TransMilenio en Cifras                                                       Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público  Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                            Este informe presenta la consolidación de estadísticas generadas trimestralmente por la Dirección
+                                     Analítica de Datos, utilizando información primaria y secundaria proporcionada por las direcciones
+Oferta del Sistema                   técnicas de Zonal y Troncal, así como las subgerencias de Infraestructura y Económica de la
+  Concesionarios de Operación        entidad. Su propósito es mostrar el estado actual y realizar un seguimiento de la oferta, la demanda
+  Infraestructura                    e indicadores de eficiencia del Sistema Integrado de Transporte Público (SITP) en la ciudad de
+  Rutas y Servicios                  Bogotá D.C.
+  Flota del Sistema
+                                                                                   Cifras actualizadas al martes, 31 de marzo de 2026
+Demanda del Sistema
+  Temporalidad en la demanda
+  Demanda Total del Sistema
+  Demanda TransMiTroncal
+    Troncal - Estaciones y Portales
+    Extensión Soacha
+    Componente Dual
+    Componente TransMiCable
+  Demanda TransMiZonal
+    Zonal - Paraderos y Servicios
+    Zonal - Concesionarios
+  Transbordos
+
+Índices de eficiencia
+TransMilenio en Cifras                                                                          Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                     Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                            ¿Qué Compone la oferta del sistema?
+
+Oferta del Sistema                   La oferta del Sistema Integrado de Transporte Público está conformada por múltiples componentes que, en conjunto, garantizan la operación y cobertura del
+                                                                                                         sistema de transporte en Bogotá:
+  Concesionarios de Operación
+  Infraestructura                    Infraestructura                                            Estaciones Troncales (141 totales, 133 operativas)
+  Rutas y Servicios                  Conjunto de instalaciones físicas que permiten el          Ubicadas a lo largo de las troncales, en el primer trimestre de 2026,
+  Flota del Sistema                  funcionamiento eficiente del sistema.                      8 estaciones están cerradas (Patio Bonito, Hospital, Calle 45, Calle 72,
+Demanda del Sistema                                                                             Calle 63, Calle 19, Tercer Milenio y Sena) y 8 operan de forma
+  Temporalidad en la demanda                                                                    temporal (Marly, Calle 57, Calle 34, Calle 22, Av. Jiménez en ambos
+  Demanda Total del Sistema                                                                     accesos, Av. 39 y Flores).
+  Demanda TransMiTroncal
+                                     Portales (9 en total)                                      Paraderos Zonales (7531 en operación)
+    Troncal - Estaciones y Portales  Son puntos estratégicos generalmente ubicados en la        Puntos de parada distribuidos en toda la ciudad para el componente
+    Extensión Soacha                 final de las troncales y donde pueden iniciar y finalizar  Zonal, facilitando la cobertura local del servicio.
+    Componente Dual                  algunas rutas, están integrados con el componente
+    Componente TransMiCable          alimentador y algunos tienen servicios adicionales para
+  Demanda TransMiZonal               mejorar la experiencia del usuario.
+    Zonal - Paraderos y Servicios
+    Zonal - Concesionarios           Vías Troncales                                             Concesionarios de Operación (23 en total)
+  Transbordos                        Corredores para buses del componente Troncal o Dual.       Empresas privadas que operan los servicios del SITP mediante
+Índices de eficiencia                Permiten operar sin interferencia del tráfico mixto,       contratos de concesión supervisados por TRANSMILENIO S.A.
+                                     mejorando tiempos de viaje y puntualidad.
+
+                                     Flota Vinculada                                            Rutas y Servicios
+                                     Vehículos habilitados para prestar servicio en los         Inventario completo de rutas del sistema, agrupadas por
+                                     componentes Troncal, Zonal y Cable, incluyendo             componente (troncal, zonal, alimentación, cable, dual), diseñadas
+                                     diferentes tecnologías de propulsión y antigüedad.         para cubrir eficientemente la ciudad y sus alrededores.
+TransMilenio en Cifras                                                                                             Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                        Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                            Los concesionarios de operación son                                          Concesionario                                  Zona            ALIMENTACIÓN  TRONCAL ZONAL
+                                     contratistas que, en virtud del contrato de
+Oferta del Sistema                   concesión, asumen la explotación del servicio                                                                         TUNAL -SUR II                       
+                                     de transporte público terrestre automotor                                                                             AMÉRICAS                       
+  Concesionarios de Operación        masivo urbano de pasajeros del SITP. Lo hacen     BOGOTÁ MÓVIL OPERACIÓN SUR S.A.S.                                   San Cristóbal                       
+                                     por su cuenta y riesgo, bajo las condiciones      CAPITALBUS S.A.S                                                                                   
+  Infraestructura                    establecidas en el contrato de concesión y bajo   Consorcio Express S.A.S.                                                                                  
+  Rutas y Servicios                  la vigilancia y control de TRANSMILENIO S.A.                                                                                                         
+  Flota del Sistema                  Como contraprestación, reciben una                                                                                    Usaquén                               
+Demanda del Sistema                  remuneración que consiste en la participación                                                                                                        
+  Temporalidad en la demanda         en las rentas del sistema TransMilenio, Los       EMasivo 10 S.A.S.                                                   Suba Centro III                       
+  Demanda Total del Sistema          ingresos del concesionario y el pago por el       EMasivo 16 S.A.S.                                                   Suba Centro VI                 
+  Demanda TransMiTroncal             derecho a la explotación de la concesión.         Empresa de Transporte integrado de Bogotá ­ ETIB S.A.S.             Bosa                                  
+                                                                                                                                                                                          
+    Troncal - Estaciones y Portales  Actualmente, el sistema cuenta con 23                                                                                                                       
+    Extensión Soacha                 concesionarios de operación, de los cuales 9
+    Componente Dual                  participan en la operación Troncal, 22 en la                                                                          Perdomo I                             
+    Componente TransMiCable          operación Zonal (UCE y alimentación) y 1 en la
+  Demanda TransMiZonal               operación de cable.                               E-SOMOS ALIMENTACIÓN S.A.S                                          USME I                                
+    Zonal - Paraderos y Servicios                                                      E-Somos Fontibón S.A.S.                                             Fontibón II                           
+    Zonal - Concesionarios                                                             Este es mi Bus S.A.S.                                               Calle 80
+  Transbordos
+Índices de eficiencia                                                                                                                                      SUBA CENTRO I
+
+                                                                                                                                                           Tintal - Zona Franca                  
+
+                                                                                       Gmovil S.A.S.                                                       Engativá                              
+                                                                                       GRAN AMERICAS FONTIBON I S.A.S.                                     FONTIBÓN I
+                                                                                       Gran Américas Usme S.A.S.                                           Usme III                                            
+                                                                                       Masivo Capital S.A.S.                                               Kennedy                                             
+                                                                                                                                                                                                               
+                                                                                                                                                           Suba Oriental                                       
+                                                                                                                                                                                                               
+                                                                                       Mueve Fontibón S.A.S.                                               Fontibón IV                                         
+                                                                                       Mueve Usme S.A.S.                                                   Usme II                                             
+                                                                                       Operadora Distrital de Transporte S.A.S.                            Perdomo II                          
+                                                                                       Organización Suma S.A.S.                                            Ciudad Bolívar                      
+                                                                                       SISTEMA INTEGRADO DE OPERACIÓN DE TRANSPORTE - SI18 CALLE80 S.A.S.  Calle 80                            
+                                                                                       SISTEMA INTEGRADO DE OPERACIÓN DE TRANSPORTE - SI18 NORTE S.A.S.    NORTE                               
+                                                                                       SISTEMA INTEGRADO DE OPERACIÓN DE TRANSPORTE - SI18 SUBA S.A.S.     SUBA                                                
+                                                                                       SOMOS BOGOTÁ USME S.A.S.                                            Usme                                                
+                                                                                       ZMO Fontibón III S.A.S.                                             Fontibón III
+                                                                                       ZMO Fontibón V S.A.S.                                               Fontibón V
+TransMilenio en Cifras                                                       Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público  Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                            Infraestructura del Sistema
+
+Oferta del Sistema                   TransMiTroncal:                                              Transmicable:
+  Concesionarios de Operación                                                                     · 3.25 Km de longitud
+                                     · 114,4 Km construidos                                       · 163 cabinas (10 pasajeros/cabina)
+  Infraestructura                    · 13 patio talleres                                          · 4 estaciones ­ 24 pilonas
+                                     · 9 portales                                                 · 178 cupos de cicloparqueaderos
+  Rutas y Servicios                  · 145 estaciones (incluyendo TransMiCable)
+  Flota del Sistema                  · 27 ciclo parqueaderos con 7993.8 cupos                     Operador de Recaudo:
+Demanda del Sistema                                                                               · 1 operador
+  Temporalidad en la demanda         TransMiZonal:                                                · 4751 puntos de recarga externos
+  Demanda Total del Sistema          · 1932 Km de cobertura en Zonal (UCE)
+  Demanda TransMiTroncal             · 31 patios transitorios, 9 patios eléctricos y 4 patios de
+                                     bajas emisiones
+    Troncal - Estaciones y Portales  · 7531 paraderos
+    Extensión Soacha                 · 13 zonas de operación
+    Componente Dual
+    Componente TransMiCable          TransMiZonal (Alimentación):
+  Demanda TransMiZonal
+    Zonal - Paraderos y Servicios    · 854 Km de cobertura en alimentación
+    Zonal - Concesionarios
+  Transbordos
+Índices de eficiencia
+TransMilenio en Cifras                                                       Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público  Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                           Rutas y Servicios  TransMiZonal:
+
+Oferta del Sistema                   TransMiTroncal:                                   · 351 servicios
+  Concesionarios de Operación        · 102 servicios                                   · 29,14 millones de kilómetros recorridos mes
+  Infraestructura                    · 10,8 de kilómetros recorridos mes               · 871 mil despachos/bus mes
+                                     · 500 mil despachos/bus mes                       · 16389 conductores operativos
+  Rutas y Servicios                  · 5106 conductores operativos
+
+  Flota del Sistema                  TransMiCable:                                     TransMiZonal: (Alimentación):
+Demanda del Sistema
+                                     · 4 estaciones                                    · 110 servicios
+  Temporalidad en la demanda         · 3,25 km de cobertura                            · 4,03 millones de kilómetros recorridos mes
+  Demanda Total del Sistema          · 163 cabinas (velocidad 3,5­5,5 m/s)             · 496 mil despachos/bus mes
+  Demanda TransMiTroncal                                                               · 3048 conductores operativos
+
+    Troncal - Estaciones y Portales
+    Extensión Soacha
+    Componente Dual
+    Componente TransMiCable
+  Demanda TransMiZonal
+    Zonal - Paraderos y Servicios
+    Zonal - Concesionarios
+  Transbordos
+Índices de eficiencia
+TransMilenio en Cifras                                                                               Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                          Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                     Flota del Sistema
+
+Oferta del Sistema                   La flota vinculada al sistema para el trimestre                         Flota Vinculada por Componente y Tipología
+  Concesionarios de Operación        reportado es de 10.439 vehículos, distribuidos en los
+  Infraestructura                    componentes zonal, troncal y de alimentación. El         Componente         Buses         % Participación
+  Rutas y Servicios                  componente zonal concentra la mayor participación,        ZONAL
+                                     con 7.289 vehículos (69,82 % de la flota), conformados                                                               69,82 %
+  Flota del Sistema                  por buses de 40, 50 y 80 pasajeros. El componente                                                                    32,46 %
+                                     troncal representa el 21,10 % de la flota, con un total                            7289                              31,75 %
+Demanda del Sistema                  de 2.203 vehículos, distribuidos en biarticulados,                                                                    5,62 %
+  Temporalidad en la demanda         articulados y padrones duales. Por su parte, el          BUS (50)                  3388                              21,10 %
+  Demanda Total del Sistema          componente de alimentación cuenta con 947                                                                            12,64 %
+  Demanda TransMiTroncal             vehículos (9,07 % de la flota), integrados por           BUS (80)                  3314                               5,84 %
+    Troncal - Estaciones y Portales  alimentadores de 50 y 80 pasajeros. Esta distribución                                                                 2,62 %
+    Extensión Soacha                 evidencia la importancia del componente zonal en la      BUS (40)                  587                                9,07 %
+    Componente Dual                  prestación del servicio, complementado por la                                                                         8,25 %
+    Componente TransMiCable          operación troncal y de alimentación, que garantizan       TRONCAL                  2203                               0,82 %
+  Demanda TransMiZonal               la integración y cobertura del Sistema.                                                                             100,00 %
+    Zonal - Paraderos y Servicios                                                             BIARTICULADO              1320
+    Zonal - Concesionarios
+  Transbordos                                                                                 ARTICULADO                610
+
+Índices de eficiencia                                                                         PADRON DUAL               273
+
+                                                                                               ALIMENTACIÓN             947
+
+                                                                                              ALIMENTADOR (80)          861
+
+                                                                                              ALIMENTADOR (50)          86
+
+                                                                                              Total                     10439
+TransMilenio en Cifras                                                                                          Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                     Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                  Flota del Sistema
+
+Oferta del Sistema                   La edad promedio de la flota presenta variaciones                       Edad Flota                                       Flota por Modelo
+  Concesionarios de Operación        significativas según el tipo de vehículo. Los buses
+  Infraestructura                    zonales de 40 pasajeros son los de mayor                                                               2025 21
+  Rutas y Servicios                  antigüedad, con un promedio de 12.33 años,
+                                     seguidos por los padrones duales, con 11.64 años.     ALIMENTADOR (50)              5,73               2023         347
+  FloottaaddeellSSisistetmema a      En contraste, los alimentadores de 50 pasajeros       ALIMENTADOR (80)                    8,31
+                                     registran la menor antigüedad, con 5.73 años. Los                                        7,98          2022              1007
+Demanda del Sistema                  buses troncales, tanto articulados como                     ARTICULADO                   7,94                                        1800
+  Temporalidad en la demanda         biarticulados, mantienen una edad promedio                BIARTICULADO                                 2021
+  Demanda Total del Sistema          cercana a los 7.9 años, lo que refleja un proceso de                                                                              1624
+  Demanda TransMiTroncal             renovación más reciente frente a otros                                                                 2020
+    Troncal - Estaciones y Portales  componentes.
+    Extensión Soacha                                                                                                                        2019         312
+    Componente Dual
+    Componente TransMiCable                                                                                                                 2017 63
+  Demanda TransMiZonal
+    Zonal - Paraderos y Servicios                                                                                                           2016 160
+    Zonal - Concesionarios
+  Transbordos                        En cuanto a la distribución por modelo, la mayor            BUS (40)                                          2015       1266
+                                     parte de la flota corresponde a vehículos modelo            BUS (50)                                                                              2937
+Índices de eficiencia                2014, con 2.937 unidades, seguidos por los modelos          BUS (80)                            12,33
+                                     2021 (1.800 vehículos) y 2020 (1.624 vehículos). Se   PADRON DUAL
+                                     evidencia una renovación progresiva en los últimos                                                            2014
+                                     años, con 1.007 vehículos modelo 2022, 347 modelo
+                                     2023 y 21 modelo 2025, lo que demuestra los                                         8,93               2013         334
+                                     esfuerzos continuos por modernizar la flota del
+                                     sistema.                                                                                               2012         293
+
+                                                                                                                         8,00               2011 111
+
+                                                                                                                                            2010 111
+
+                                                                                                                                     11,64  2009 50
+
+                                                                                                                                            2008 3
+
+                                                                                                             0           10                 0 mil             2 mil
+TransMilenio en Cifras                                                       Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público  Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                Flota del Sistema
+
+Oferta del Sistema                                     Nivel de Emisión                                En materia ambiental, la flota del sistema muestra avances
+  Concesionarios de Operación                                                                          importantes, aunque aún enfrenta algunos desafíos. En
+  Infraestructura                            3,22%     2,58%                        (<) A EURO IV      términos de emisiones, cerca del 39,96% de los vehículos
+  Rutas y Servicios                                           14,25%                CERO EMISIONES     cumple con el estándar Euro V, y un 23.03% alcanza la norma
+                                                                                    EURO IV            Euro VI, que es más estricta y menos contaminante. Además,
+  FloottaaddeellSSisistetmema a      23,03%                                         EURO V             los vehículos de cero emisiones e híbridos representan el
+                                                                                    EURO V-CON FILTRO  17.47% del total, lo que refleja un avance hacia tecnologías
+Demanda del Sistema                                    10,24%                       EURO VI            más limpias. Sin embargo, todavía un 2.58% de la flota
+  Temporalidad en la demanda                                                        HÍBRIDO            corresponde a vehículos más antiguos, con estándares
+  Demanda Total del Sistema          6,72%                                                             ambientales inferiores a Euro IV.
+  Demanda TransMiTroncal                                                 DIESEL
+    Troncal - Estaciones y Portales                        39,96%        ELÉCTRICO                     En cuanto al tipo de combustible, el 61.97% de la flota aún
+    Extensión Soacha                                                     GNV                           opera con diésel, aunque se evidencia un avance progresivo
+    Componente Dual                                    Combustible       HIBRIDO (DIESEL - ELÉCTRICO)  hacia otras alternativas. Los vehículos a Gas Natural Vehicular
+    Componente TransMiCable                                                                            (GNV) representan el 20.56% de la flota, los eléctricos el
+  Demanda TransMiZonal                          3,22%                                                  14.25% y los híbridos (diésel-eléctrico) el 3.2%. En conjunto,
+    Zonal - Paraderos y Servicios    20,56%                                                            estos datos muestran una transición gradual con avances
+    Zonal - Concesionarios                                                                             tecnológicos, con un crecimiento relevante de la flota eléctrica
+  Transbordos                        14,25%            61,97%                                          y de los vehículos con estándar Euro VI, aunque el diésel
+                                                                                                       sigue siendo el combustible predominante.
+Índices de eficiencia
+TransMilenio en Cifras                                                                                                                  Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                                             Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                               ¿Qué Compone la demanda del sistema?
+
+Oferta del Sistema                   La demanda representa el número de personas que validan su pasaje en el sistema. Se mide por validaciones, que se registran al pasar la tarjeta por un
+  Concesionarios de Operación                                                       torniquete. Los componentes del sistema de transporte publico son:
+  Infraestructura
+  Rutas y Servicios                  TransMiTroncal                     TransMiZonal                                                    TransMiCable
+  Flota del Sistema                  Buses articulados y biarticulados  Cubren trayectos intermedios o                                  TransMiCable, tipo teleférico
+                                                                        largos
+Demanda del Sistema
+                                     TransMiTroncal (Dual)              TransMiZonal (Alimentación)
+  Temporalidad en la demanda         Puede usar vías troncales y        Conectan barrios con portales
+  Demanda Total del Sistema          urbanas                            o estaciones
+  Demanda TransMiTroncal
+                                     Tipo de demanda:                                                                                   Desagregación por ubicación:
+    Troncal - Estaciones y Portales  Mide el flujo de usuarios en el sistema según distintos períodos de tiempo,                        Permite analizar la demanda según diferentes ubicaciones del sistema, como
+    Extensión Soacha                 desde una hora hasta varios meses, para entender el comportamiento de la                           estaciones, zonas de la ciudad o rutas específicas, para identificar patrones de
+    Componente Dual                  demanda.                                                                                           uso y optimizar la operación.
+    Componente TransMiCable
+  Demanda TransMiZonal                 · Demanda horaria: Número de validaciones que ocurren en una hora específica del día. Útil para    · Demanda por estación/portal: Número de validaciones que se hacen en una estación o portal
+    Zonal - Paraderos y Servicios        identificar picos de uso.                                                                          específico.
+    Zonal - Concesionarios
+  Transbordos                          · Demanda diaria: Total de validaciones en un día.                                                 · Demanda por zona: Nivel de uso del sistema en diferentes localidades de la ciudad.
+Índices de eficiencia                  · Demanda semanal: Promedio de validaciones por semana.                                            · Demanda por ruta: Validaciones hechas por cada servicio o línea.
+                                       · Demanda acumulada: Suma total de validaciones durante un período determinado (mes, trimestre,
+
+                                         año).
+TransMilenio en Cifras                                                                Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público           Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                 Clasificación temporal de la demanda
+
+Oferta del Sistema                   La temporalidad describe cómo varía la demanda según el calendario y la hora, permitiendo identificar comportamientos recurrentes, como diferencias entre
+  Concesionarios de Operación                                                         días hábiles y festivos o la concentración de usuarios en horas pico.
+  Infraestructura
+  Rutas y Servicios                                        Hora Pico                                        Tipo de día                                              Día Típico
+  Flota del Sistema
+                                     Las horas pico corresponden a los momentos del   Clasificación de la demanda según el calendario,         Son los días del mes que mejor representan el
+Demanda del Sistema                  día con mayor concentración de usuarios, cuando  que permite identificar variaciones en el número         comportamiento promedio de la operación de
+                                     se refuerza la operación para atender la alta    de usuarios.                                             transporte en cada tipo de día: hábil (DHT),
+  Temporalidad en la demanda         demanda en troncales y zonales.                                                                           sábado (DST) o festivo (DFT).
+                                                                                      - Día hábil: Lunes a viernes (sin incluir festivos). Es
+  Demanda Total del Sistema          Hora pico en el día hábil:                       cuando se presenta la mayor demanda.                     Se seleccionan por su cercanía con el valor
+  Demanda TransMiTroncal                                                                                                                       promedio diario, permitiendo analizar la
+                                     - TransMiTroncal                                 - Sábado: Día con demanda intermedia.                    operación en condiciones típicas y sin
+    Troncal - Estaciones y Portales    Mañana: 6:15 a.m. ­ 7:15 a.m.                                                                           variaciones extraordinarias. De esta forma se
+    Extensión Soacha                   Tarde: 5:00 p.m. ­ 6:00 p.m.                   - Festivo: Domingo y días festivos. Se presenta la       excluyen los días atípicos, que presentan
+    Componente Dual                                                                   menor cantidad de usuarios.                              variaciones inusuales ocasionadas por factores
+    Componente TransMiCable          - TransMiZonal                                                                                            externos como manifestaciones, eventos
+  Demanda TransMiZonal                 Mañana: 6:00 a.m. ­ 7:00 a.m.                                                                           masivos, fallas operativas o condiciones
+    Zonal - Paraderos y Servicios      Tarde: 5:00 p.m. ­ 6:00 p.m.                                                                            climáticas extremas.
+    Zonal - Concesionarios
+  Transbordos
+Índices de eficiencia
+TransMilenio en Cifras                                                                                                                        Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                                                   Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                                             Demanda Total del Sistema
+
+Oferta del Sistema                                                                            Comparativo de validaciones trimestrales por componente  Desde el inicio del año en curso, hasta el martes, 30 de junio de
+  Concesionarios de Operación                                                                                                                          2026, el Sistema Integrado de Transporte Público (SITP) registro
+  Infraestructura                    Año 2025 2026                                                                                                     un total de 532.957.278 validaciones.
+  Rutas y Servicios
+  Flota del Sistema                  Validaciones Filtradas año anterior y actual  300 mill.  288 mill.               286 mill.                        La Distribución por componente se dio de la siguiente manera:
+                                                                                                           266 mill.               267 mill.
+Demanda del Sistema                                                                                                                                     TransMiZonal fue el componente más utilizado en 2026, con
+  Temporalidad en la demanda                                                       250 mill.                                                           274 millones de validaciones.  TransMiTroncal registró 259
+
+  Demanda Total del Sistema                                                        200 mill.                                                           millones.
+
+  Demanda TransMiTroncal                                                           150 mill.                                                           Comparando con el mismo periodo del año anterior, se
+    Troncal - Estaciones y Portales                                                                                                                    presentó una disminución del 7,13%.
+    Extensión Soacha                                                               100 mill.
+    Componente Dual                                                                                                                                    Durante el segundo trimestre de 2026, la demanda del Sistema
+    Componente TransMiCable                                                        50 mill.                                                            Integrado de Transporte Público (SITP) presentó una
+                                                                                                                                                       disminución frente al mismo periodo de 2025. El primer
+  Demanda TransMiZonal                                                                                                                                 trimestre registró cerca de 266 millones de validaciones frente
+    Zonal - Paraderos y Servicios                                                                                                                      a 288 millones del año anterior, el segundo trimestre alcanzó
+    Zonal - Concesionarios                                                                                                                             aproximadamente 267 millones, por debajo de los 286 millones
+                                                                                                                                                       registrados en 2025. Los comparativos entre trimestres podrían
+  Transbordos                                                                                                                                          iniciar una tendencia para el año.
+Índices de eficiencia
+                                                                                   0 mill.
+
+                                                                                              Trim. 1                 Trim. 2
+TransMilenio en Cifras                                                                                           Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                      Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                                        Demanda Total del Sistema
+
+Oferta del Sistema                              La distribución de las validaciones                      Participacion Porcentual de la Demanda por Componente (T2 2025 Vs T2 2026)
+  Concesionarios de Operación                   durante el segundo trimestre evidencia
+  Infraestructura                               una participación equilibrada entre los       Sistema TRONCAL ZONAL
+  Rutas y Servicios                             componentes zonal y troncal,
+  Flota del Sistema                             manteniéndose el componente zonal             2025  Trim. 2      48,27%                                 51,73%
+                                                como el de mayor participación. En el               Trim. 2      48,82%                                 51,18%
+Demanda del Sistema                             segundo trimestre de 2025, el                 2026
+  Temporalidad en la demanda                    componente zonal representó el 51,73 %
+                                                de las validaciones, mientras que el
+  DDeemmaannddaaToTtoatladledleSlisSteismteama  troncal concentró el 48,27 %. Para el
+                                                mismo periodo de 2026, la participación
+  Demanda TransMiTroncal                        del componente zonal fue del 51,18 % y la
+    Troncal - Estaciones y Portales             del troncal del 48,82 %, reflejando una leve
+    Extensión Soacha                            reducción en la participación del
+    Componente Dual                             componente zonal y un incremento
+    Componente TransMiCable                     equivalente en el troncal. No obstante, la
+                                                estructura de participación permanece
+  Demanda TransMiZonal                          estable, evidenciando un comportamiento
+    Zonal - Paraderos y Servicios               consistente en la distribución de la
+    Zonal - Concesionarios                      demanda entre ambos componentes.
+
+  Transbordos                                                                                                0%  20%     40%                60%                 80%                  100%
+Índices de eficiencia
+
+                                                                                                                         Validaciones Ultimo Trimestre
+TransMilenio en Cifras                                                                                                                 Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                                            Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                                    Demanda TransMiTroncal
+
+Oferta del Sistema                   Desde el inicio de el año en curso, hasta el                                                                  Demanda Día Hábil Promedio por Semana
+  Concesionarios de Operación        martes, 30 de junio de 2026, el componente
+  Infraestructura                    Troncal registro un total de 258.653.336         Año                               2024           2025            2026
+  Rutas y Servicios                  validaciones.
+  Flota del Sistema                                                                                                                    2,02 mill.      2,02 mill. 2,05 mill.
+                                     Semanas con mayor promedio de validaciones:
+Demanda del Sistema                  Trim 1: Semana 6 (validaciones: 1.901.416)                              2,0 mill.                 1,90 mill.                                1,91 mill.                         1,96 mill.
+  Temporalidad en la demanda         Trim 2: Semana 21 (validaciones: 1.930.835)                             1,5 mill.                                                                                                   1,56 mill.
+  Demanda Total del Sistema                                                                                                                             1,85 mill.           1,93 mill.
+                                     El promedio de validaciones por día hábil y por                                                               1,81 mill. 1,72 mill.                                               50
+  Demanda TransMiTroncal             semana en 2026 mantiene un comportamiento        Promedio Validaciones                                                                              1,70 mill.
+                                     similar al observado en los años anteriores,                                                                                1,70 mill.
+    Troncal - Estaciones y Portales  aunque con niveles ligeramente inferiores a los                                                                                             1,67 mill.  1,70    mill.
+    Extensión Soacha                 registrados en 2025. Se presentan                                                                                                       1,68 mill.
+    Componente Dual                  disminuciones puntuales en algunas semanas,
+    Componente TransMiCable          asociadas a factores propios del calendario                                                                       1,55 mill.
+  Demanda TransMiZonal               operativo. No obstante, después de estos
+    Zonal - Paraderos y Servicios    periodos la demanda recupera su                                                                                   1,42 mill.
+    Zonal - Concesionarios           comportamiento habitual, manteniendo una
+  Transbordos                        dinámica estable durante el segundo trimestre                                         1,11 mill.
+Índices de eficiencia                de 2026.
+                                                                                                             1,0 mill.
+
+                                                                                                                        0,76 mill.
+
+                                                                                                                        0                          10                        20                             30  40
+TransMilenio en Cifras                                                                                      Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                 Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                  Demanda TransMiTroncalDemanda Horaria Suavizada
+
+Oferta del Sistema                                                                           Demanda Horaria en Día Hábil Típico (DHT) Mensual
+  Concesionarios de Operación
+  Infraestructura                             Fecha miércoles, 08 de abril de 2026 jueves, 07 de mayo de 2026 lunes, 01 de junio de 2026
+  Rutas y Servicios
+  Flota del Sistema                               0,2 mill.
+
+Demanda del Sistema                                                      0,1 mill.
+  Temporalidad en la demanda
+  Demanda Total del Sistema                                              0,0 mill.
+
+  DeemmaannddaaTTrarnasnMsMiTriTornocnacl al                                        0:00  3:00  6:00  9:00  12:00  15:00                        18:00  21:00
+
+    Troncal - Estaciones y Portales           Períodos de máxima demanda: Mañana: 06:15 - 07:14 (209.141 validaciones mediana DHT) | Tarde: 16:45 - 17:44 (178.208 validaciones mediana DHT)
+    Extensión Soacha
+    Componente Dual                           Durante el segundo trimestre de 2026 se mantiene el patrón horario característico de los días hábiles, con un primer pico de demanda en la mañana entre las
+    Componente TransMiCable                   6:15 a.m. y las 7:14 a.m., y un segundo pico en la tarde entre las 4:45 p.m. y las 5:44 p.m., asociados principalmente a los desplazamientos por motivos laborales y
+  Demanda TransMiZonal                        académicos. Entre estos periodos, la demanda disminuye y presenta un comportamiento relativamente estable. Al comparar los meses de abril, mayo y junio, se
+    Zonal - Paraderos y Servicios             observa una distribución horaria muy similar, con variaciones leves en la magnitud de los picos, lo que evidencia la estabilidad del patrón de movilidad del
+    Zonal - Concesionarios                    componente troncal durante el trimestre.
+  Transbordos
+Índices de eficiencia
+TransMilenio en Cifras                                                                                                      Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                                 Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                         Demanda TransMiTroncal
+
+Oferta del Sistema                                      Comparación Demanda Mensual Trimestre                                            Demanda Día Hábil Típico (DHT) Trimestre
+  Concesionarios de Operación
+  Infraestructura                             Año 2025 2026                                                                 Sistema TRONCAL
+  Rutas y Servicios
+  Flota del Sistema                               60 mill.                                                                                                2 mill.              1,86 mill.  1,83 mill.
+
+Demanda del Sistema                                                          50 mill.                                                                              1,75 mill.
+  Temporalidad en la demanda                                                            46 mill.
+  Demanda Total del Sistema                             47 mill.
+                                                                   42 mill.
+  DeemmaannddaaTTrarnasnMsMiTriTornocnacl al  Validaciones                                        41 mill. 42 mill.
+                                                                                                                                            Validaciones
+    Troncal - Estaciones y Portales           40 mill.
+    Extensión Soacha
+    Componente Dual                                                                                                                                       1 mill.
+    Componente TransMiCable
+  Demanda TransMiZonal                        20 mill.
+    Zonal - Paraderos y Servicios
+    Zonal - Concesionarios                                                                                                                                0 mill.
+  Transbordos
+Índices de eficiencia                                                                                                                                              abril       mayo        junio
+
+                                              0 mill.                                                                                                                          Trim. 2
+
+                                                             abril           mayo                 junio                                                                        2026
+
+                                              En abril de 2026 se registraron cerca de 42 millones de validaciones, frente  Durante el segundo trimestre de 2026, el promedio diario de validaciones en
+                                              a aproximadamente 47 millones en el mismo mes de 2025. En mayo, la            día hábil típico del componente troncal fue de 1,75 millones en abril, 1,86
+                                              demanda alcanzó alrededor de 46 millones de validaciones, por debajo de       millones en mayo y 1,83 millones en junio. Se observa un incremento de la
+                                              los cerca de 50 millones registrados el año anterior. Por su parte, junio     demanda entre abril y mayo, seguido de una leve disminución en junio,
+                                              presentó aproximadamente 42 millones de validaciones, superando               manteniéndose en niveles similares. Este comportamiento es consistente
+                                              ligeramente los cerca de 41 millones observados en junio de 2025. En          con la estacionalidad propia del sistema, ya que el inicio del periodo de
+                                              conjunto, el segundo trimestre de 2026 muestra una menor demanda              vacaciones de mitad de año suele generar una reducción en los
+                                              frente al mismo periodo del año anterior, aunque el comportamiento            desplazamientos habituales, principalmente por motivos laborales y
+                                              observado en junio refleja la estacionalidad asociada al inicio del periodo   académicos.
+                                              de vacaciones de mitad de año que incide en los patrones habituales de
+TransMilenio en Cifras                                                                                                                              Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                                                         Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                             Demanda promedio día y hora pico ­ Ranking Portales y Estaciones
+
+Oferta del Sistema                   Este panel presenta un ranking de la demanda promedio en los puntos de acceso del sistema troncal, diferenciando entre portales y estaciones.
+  Concesionarios de Operación
+  Infraestructura                    En los nueve portales del sistema, la mayor cantidad de validaciones diarias se concentra en Portal Américas (71,6 mil), seguido por Portal Norte ­
+  Rutas y Servicios                  Unicervantes (67,1 mil) y Portal Suba (54,0 mil), los cuales también lideran en participación y presentan los mayores niveles en horas pico, evidenciando una
+  Flota del Sistema                  alta concentración de la demanda en estos nodos estratégicos de la operación troncal.
+
+Demanda del Sistema                  Algunas estaciones presentan niveles de validación comparables a portales, destacándose Calle 100 ­ Marketmedios (40,6 mil), San Mateo ­ C.C. Unisur (38,6
+  Temporalidad en la demanda         mil) y Banderas P. Central (34,9 mil), las cuales concentran una alta proporción de la demanda y registran valores significativos en horas pico, evidenciando la
+  Demanda Total del Sistema          existencia de puntos críticos de acceso a lo largo del corredor troncal.
+  Demanda TransMiTroncal
+                                     Demanda Día Y Hora Pico Portales                                                                               Demanda Día Y Hora Pico Top 10 Estaciones
+    Troncal - Estaciones y Portales
+                                     Portal                           Validaciones       Validaciones      Validaciones       % Participación       Estación                   Validaciones      Validaciones       Validaciones       % Participación
+    Extensión Soacha                                                  Dia                Hora Pico         Hora Pico                                                           Dia               Hora Pico          Hora Pico
+    Componente Dual                  Portal Américas                                     Mañana            Tarde                           15,47%   Calle 100 - Marketmedios                     Mañana             Tarde              
+    Componente TransMiCable          Portal Norte - Unicervantes                                                                           14,49%   SAN MATEO - C.C. UNISUR              40.572
+  Demanda TransMiZonal               Portal Suba                                                    13710               1441               11,66%   Banderas P. Central                  38.639                647               7501               14,43%
+    Zonal - Paraderos y Servicios    Portal Sur JFK Coop. Financiera             71.594              9745               4629               11,27%   Flores                               34.866               6839                872               13,74%
+    Zonal - Concesionarios           Cabecera Calle 80                           67.053             11562               1655               11,21%   Calle 76                             26.926               6857               1210               12,40%
+  Transbordos                        Cabecera Usme                               53.963             10414               1219               10,69%   Temporal Flores                      26.248                419               5074                 9,57%
+Índices de eficiencia                Portal Tunal                                52.157              9014               2487                 8,87%  TERREROS                             25.457                456               4980                 9,33%
+                                     Portal 20 de Julio                          51.881              9663               1046                 8,80%  Toberin                              25.204                474               4716                 9,05%
+                                     Portal El Dorado - C.C. NUESTRO             49.461              6899               1482                 7,55%  Alcalá ­ Colegio S. Tomás            24.297               5754                430                 8,96%
+                                     BOGOTA                                      41.045              7808               1000                        Dominicos                            20.528               3982               2244                 8,64%
+                                                                                 40.750              4089               4570                        Temporal Marly                                            2174               2389                 7,30%
+                                                                                 34.938
+
+                                                                                                                                                                               18.510            622                2277               6,58%
+TransMilenio en Cifras                                                                                                           Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                                      Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                                                  Extensión Soacha
+
+Oferta del Sistema                   La extensión Soacha del sistema                                                                 Demanda Promedio Día Hábil por Semana
+  Concesionarios de Operación        TransMilenio continúa consolidándose
+  Infraestructura                    como un corredor estratégico para la          Año                             2024    2025          2026
+  Rutas y Servicios                  movilidad entre Bogotá y el municipio de
+  Flota del Sistema                  Soacha. Durante el segundo trimestre de                              100 mil            95 mil      94 mil  97 mil                         95 mil
+                                     2026, la demanda promedio por día hábil                               80 mil          89 mil                    94 mil 92 mil                  80 mil
+Demanda del Sistema                  presentó un comportamiento estable, con       Promedio Validaciones                                                 89 mil 90 mil
+  Temporalidad en la demanda         valores que, en la mayor parte de las                                                                                                         50
+  Demanda Total del Sistema          semanas, oscilaron entre 90 mil y 95 mil                                              91 mil 83 mil
+  Demanda TransMiTroncal             validaciones. Aunque se observan
+    Troncal - Estaciones y Portales  disminuciones puntuales asociadas a la                                                86 mil                         79 mil
+                                     estacionalidad y al calendario operativo, la                                                82 mil             77 mil
+    Extensión Soacha                 demanda recupera posteriormente sus                                                                    80 mil
+                                     niveles habituales, manteniendo una
+    Componente Dual                  dinámica similar a la registrada en años                                                            70 mil
+    Componente TransMiCable          anteriores.
+  Demanda TransMiZonal
+    Zonal - Paraderos y Servicios                                                                         60 mil
+    Zonal - Concesionarios                                                                                         60 mil
+  Transbordos
+Índices de eficiencia                                                                                              43 mil
+
+                                                                                                          40 mil                     10             20                  30  40
+
+                                                                                                                        0
+TransMilenio en Cifras                                                                                       Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                  Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                                    Extensión Soacha
+
+Oferta del Sistema                                 Comparación Demanda Mensual                                                                   Demanda Día Hábil Típico (DHT)
+  Concesionarios de Operación
+  Infraestructura                    Año 2025 2026
+  Rutas y Servicios
+  Flota del Sistema                                                                                          Estacion_Parada                                                                                        50 mil                  40 mil          38 mil
+                                                                                                                (07010) Bosa                                                                                         0 mil                      25 mil          27 mil
+Demanda del Sistema                                                                                             (07503) SAN MATEO - C.C. UNISUR
+  Temporalidad en la demanda                                                                                    (07504) TERREROS
+  Demanda Total del Sistema                                                                                     (07505) LEON XIII
+  Demanda TransMiTroncal                                                                                        (07506) DESPENSA
+    Troncal - Estaciones y Portales  Validaciones Ultimo Trimestre2,3 mill.2,4 mill. 2,3 mill.    2,2 mill.                                                                                                                 33 mil
+                                                                                                                                                                                                      Validaciones1,9 mill.2,0 mill.20 mil
+    ExtteennssióiónnSSooacahcaha
+                                     2 mill.
+    Componente Dual
+    Componente TransMiCable                                                                                                                                                                                                 8 mil           12 mil              10 mil
+  Demanda TransMiZonal                                                                                                                                                                                                               2 mil           3 mil           3 mil
+    Zonal - Paraderos y Servicios
+    Zonal - Concesionarios                                                                                                                                                                                                      8 mil           11 mil      11 mil
+  Transbordos
+Índices de eficiencia                                                                                                                                                                                                       abril           mayo            junio
+
+                                     0 mill.                                                                                                                                                                                                Trim. 2
+
+                                              abril                mayo                 junio                                                                                                                                               2026
+
+                                     En la comparación mensual del segundo trimestre, abril de 2026 registró aproximadamente 1,9 millones de validaciones frente a 2,3 millones en el mismo mes
+                                     de 2025. En mayo se alcanzaron cerca de 2,3 millones, ligeramente por debajo de los 2,4 millones registrados el año anterior. Por su parte, junio presentó
+                                     alrededor de 2,2 millones de validaciones, superando los cerca de 2,0 millones observados en junio de 2025. En conjunto, la demanda mostró una recuperación
+                                     progresiva durante el trimestre, evidenciando un comportamiento estable en la extensión Soacha.
+
+                                     Durante el segundo trimestre de 2026, la demanda en día hábil típico de la extensión Soacha continuó concentrándose principalmente en la estación San Mateo
+                                     ­ C.C. Unisur, con valores cercanos a 33 mil validaciones en abril, 40 mil en mayo y 38 mil en junio, consolidándose como el principal punto de acceso del
+                                     corredor. La estación Terreros ocupó el segundo lugar, con registros entre 20 mil y 27 mil validaciones diarias. Por su parte, Bosa presentó volúmenes entre 8
+                                     mil y 12 mil validaciones, mientras que León XIII y Despensa mantuvieron los menores niveles de demanda, con registros inferiores a 3 mil validaciones por día
+                                     hábil típico.
+TransMilenio en Cifras                                                                                                                                                Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                                                                           Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                                                                           Extensión Soacha
+
+Oferta del Sistema                                                                          Demanda Horaria en Día Hábil Típico (DHT)                                                               Durante el segundo trimestre de 2026, la demanda en la
+  Concesionarios de Operación                                                                                                                                                                       extensión Soacha mantiene un patrón horario estable
+  Infraestructura                    Fecha miércoles, 08 de abril de 2026 jueves, 07 de mayo de 2026 lunes, 01 de junio de 2026                                                                     en los días hábiles, con un pico principal en la mañana
+  Rutas y Servicios                                                                                                                                                                                 entre las 5:30 a.m. y las 7:00 a.m., alcanzando valores
+  Flota del Sistema                  Demanda Horaria Suavizada  20 mil             16 mil                                                                                                           cercanos a 20 mil validaciones por hora.
+                                                                                  19 mil                                                                                                            Posteriormente, la demanda disminuye
+Demanda del Sistema                                                                                                                                                                                 progresivamente durante el resto de la jornada y
+  Temporalidad en la demanda                                                                12 mil                                                                                                  presenta un segundo pico muy leve en horas de la
+  Demanda Total del Sistema                                                                                                                                                                         tarde, mucho menor en magnitud que el registrado en
+  Demanda TransMiTroncal                                                      15 mil                                                                                                                la mañana. El comportamiento observado en abril, mayo
+    Troncal - Estaciones y Portales                                                                                                                                                                 y junio evidencia una distribución horaria consistente,
+                                                                10 mil                              7 mil                                                                                           con variaciones leves entre los meses y una
+    ExtteennssióiónnSSooacahcaha
+                                                                                                    5 mil
+    Componente Dual
+    Componente TransMiCable                                            5 mil                        7 mil          2 mil 3 mil        1 mil 2 mil   2 mil      1 mil  0 mil  0 mil          0 mil
+  Demanda TransMiZonal                                          0 mil 3 mil                                 4 mil              3 mil                    2 mil                                0 mil
+    Zonal - Paraderos y Servicios
+    Zonal - Concesionarios                                                                                       4 mil     3 mil 2 mil 2 mil                   1 mil
+  Transbordos
+Índices de eficiencia                                                                 6:00                 9:00            12:00             15:00  18:00                    21:00
+
+                                                                                            Ranking Demanda Día y Hora Pico Estaciones                                                              En cuanto a la distribución de la demanda por
+                                                                                                                                                                                                    estaciones de la extensión Soacha, San Mateo ­ C.C.
+                                                                Estación                    Validaciones Validaciones Hora Pico Validaciones Hora Pico % Participación                              Unisur concentra la mayor participación, con el 44,40 %
+                                                                                                                                                                                                    de las validaciones promedio por día hábil (38.639
+                                                                SAN MATEO - C.C.            Día                    Mañana                    Tarde                                                  validaciones), consolidándose como el principal punto de
+                                                                UNISUR                                                                                                                              acceso del corredor. Le sigue la estación Terreros, con
+                                                                TERREROS                                                                                                                            el 28,96 % (25.204 validaciones). Por su parte, Bosa y
+                                                                Bosa                                                                                                                                León XIII presentan participaciones del 11,79 % y 11,64 %,
+                                                                LEON XIII                                  38.639                     6839                     872                  44,40%          respectivamente, mientras que Despensa registra la
+                                                                DESPENSA                                                                                                                            menor participación, con el 3,21 % de las validaciones
+                                                                Total                                      25.204                      5754                    430                  28,96%
+                                                                                                           10.262                      2175                                                                                            ó
+                                                                                                           10.130                      2181                    331                  11,79%
+                                                                                                            2.795                       565
+                                                                                                           87.030                     17514                    279                  11,64%
+
+                                                                                                                                                               155                  3,21%
+
+                                                                                                                                                               2067          100,00%
+TransMilenio en Cifras                                                                                                           Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                                      Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                                                        Componente Dual
+
+Oferta del Sistema                   El componente dual corresponde a los buses que operan tanto en estaciones troncales como en paraderos zonales, facilitando la integración entre ambos
+  Concesionarios de Operación        componentes del sistema. En la comparación de la demanda mensual del segundo trimestre, abril registró cerca de 1,6 millones de validaciones en 2026, por
+  Infraestructura                    encima de los aproximadamente 1,5 millones observados en 2025. En mayo la demanda se mantuvo alrededor de 1,6 millones de validaciones en ambos años,
+  Rutas y Servicios                  mientras que en junio se registraron cerca de 1,5 millones en 2026 frente a 1,4 millones en el mismo mes de 2025. En conjunto, el componente dual presentó un
+  Flota del Sistema                  comportamiento estable durante el trimestre, con una ligera recuperación frente al año anterior.
+
+Demanda del Sistema                  En cuanto a la participación por ruta, la mayor proporción de validaciones corresponde a la ruta L81­D81, con el 39,84 %, seguida por M86­K86, con el 28,74 %.
+  Temporalidad en la demanda         Las rutas M82­L82 y M84­C84 representan el 16,47 % y el 14,96 % de las validaciones, respectivamente, concentrando en conjunto la totalidad de la demanda
+  Demanda Total del Sistema          analizada del componente dual durante el segundo trimestre de 2026.
+  Demanda TransMiTroncal
+    Troncal - Estaciones y Portales                         Comparación Demanda Mensual                                                           Participación por Ruta
+    Extensión Soacha
+                                     Año 2025               2026                       1,6 mill. 1,6 mill.                                                                Linea
+    Componente Dual                      2 mill.                  1,5 mill. 1,6 mill.                                                                                        (10011) L81-D81
+                                                                                                                                                                             (10014) M86-K86
+    Componente TransMiCable          Validaciones                                                           1,4 mill. 1,5 mill.                        14,96%                (10013) M82-L82
+  Demanda TransMiZonal                                                                                                                            16,47%                     (10006) M84-C84
+                                                                                                                                                               39,84%
+    Zonal - Paraderos y Servicios
+    Zonal - Concesionarios                         1 mill.
+  Transbordos
+Índices de eficiencia                                                                                                                             28,74%
+
+                                                   0 mill.
+
+                                                            abril                      mayo                 junio
+TransMilenio en Cifras                                                                                                                                         Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                                                                    Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                                                                         Componente Dual
+
+Oferta del Sistema                                                     Demanda Horaria en Día Hábil Típico (DHT)                                                        Demanda Día Y Hora Pico Top 10 Estaciones
+  Concesionarios de Operación
+  Infraestructura                    Fecha miércoles, 08 de abril de 2026 jueves, 07 de mayo de 2026 lunes, 01 de junio de 2026                                         Parada                    Validaciones Validaciones Validaciones % Participación
+  Rutas y Servicios
+  Flota del Sistema                                                                                                                                                     377B05_Aeropuerto         Día         Hora Pico       Hora Pico
+                                                                                                                                                                        Eldorado
+Demanda del Sistema                                                                                                       7,8 mil 7,4 mil                               Aeropuerto Eldorado                   Mañana          Tarde
+  Temporalidad en la demanda                                                                                                      7,4 mil                               396A04_Puente de Guadua
+  Demanda Total del Sistema          Demanda Horaria Suavizada                                                                                                          AC80 - K119               
+  Demanda TransMiTroncal                                                                                                                4,7 mil                         193B03_ETB Tibabuyes
+    Troncal - Estaciones y Portales                                                                                                      4,1 mil                        Av Suba - K114D                5.070             273             372  13,68%
+    Extensión Soacha                                                                                                                                                    AC 80 - KR 114
+                                                                       5,4 mil                                                                                          138A04_Br. El Cortijo
+    CommppoonneennteteDDuaulal                                                                                                                                          159A04_Villas de Granada
+                                                                5 mil           5,5 mil                                                                                                                4.893             250             340  13,21%
+    Componente TransMiCable
+  Demanda TransMiZonal                                                 5,6 mil  3,7 mil                          3,8 mil                                                                               4.612             855             259  12,45%
+
+    Zonal - Paraderos y Servicios                                               2,9 mil                          3,3 mil                                                                               4.232             767             231  11,42%
+    Zonal - Concesionarios
+  Transbordos                                                                            2,5 mil                 3,5 mil                                                                               4.224             859             83   11,40%
+Índices de eficiencia
+                                                                                         2,7 mil 2,9 mil 2,9 mil                                  1,8 mil                                              4.151             771             106  11,20%
+                                                                                                                                                      1,9 mil
+                                                                                         2,1 mil                                                                                                       2.864             557             112  7,73%
+                                                                                                                                                  2,0 mil
+
+                                                                                                                                                               0,0 mil                                 2.824             541             105  7,62%
+                                                                                                                                                               0,0 mil
+                                                                0 mil 0,6 mil                                                                                                                          2.145             341             75   5,79%
+
+                                                                                                          10:00           16:00                   22:00
+
+                                     La demanda horaria en días hábiles típicos (DHT) del componente dual durante el segundo trimestre de 2026 mantiene un patrón de comportamiento estable. Se
+                                     observa un primer pico de demanda en la mañana, entre las 6:00 y las 7:00 a.m., con valores cercanos a 5.500 validaciones por intervalo. Posteriormente, la
+                                     demanda disminuye progresivamente hasta el mediodía y registra un segundo pico, de mayor magnitud, entre las 4:00 p.m. y las 5:30 p.m., alcanzando
+                                     aproximadamente 7.800 validaciones por intervalo. A partir de ese momento, las validaciones descienden gradualmente hasta finalizar la operación diaria,
+                                     manteniendo un comportamiento consistente entre abril, mayo y junio.
+
+                                     En las paradas con mayor demanda durante el segundo trimestre de 2026 se destaca 37B05_Aeropuerto El Dorado, con una participación del 13,68 % de las
+                                     validaciones promedio por día hábil, seguida por Aeropuerto El Dorado (13,21 %) y 39A04_Puente de Guadua (12,45 %). También sobresalen las paradas AC80-
+                                     K119, 193B03_ETB Tibabuyes y Av. Suba-K114D, con participaciones cercanas al 11 %. En conjunto, estos resultados evidencian una alta concentración de la
+                                     demanda en el corredor de la Calle 80 y en los accesos al Aeropuerto El Dorado, consolidándolos como los principales puntos de intercambio del componente
+                                     dual durante el trimestre.
+TransMilenio en Cifras                                                                                                           Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                                      Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                          Componente TransMiCable
+
+Oferta del Sistema                   El componente Cable continúa desempeñando un papel estratégico en el Sistema Integrado de Transporte Público, al facilitar la conexión entre zonas de
+  Concesionarios de Operación        difícil acceso y la red troncal. En la comparación mensual del segundo trimestre de 2026 frente al mismo periodo de 2025, abril registró cerca de 0,63
+  Infraestructura                    millones de validaciones frente a 0,65 millones; mayo alcanzó aproximadamente 0,65 millones frente a 0,68 millones, y junio presentó alrededor de 0,62
+  Rutas y Servicios                  millones frente a 0,63 millones. En conjunto, el componente registró una demanda ligeramente inferior a la observada en 2025, manteniendo un
+  Flota del Sistema                  comportamiento estable durante el trimestre.
+
+Demanda del Sistema                  En cuanto a la participación por estación durante el segundo trimestre de 2026, Cable Portal Tunal concentró la mayor proporción de la demanda, con el
+  Temporalidad en la demanda         48,57 % de las validaciones, consolidándose como el principal punto de acceso del componente. Le siguieron Mirador del Paraíso, con el 28,21 %, Juan Pablo
+  Demanda Total del Sistema          II, con el 12,15 %, y Manitas, con el 11,07 %. Esta distribución evidencia la concentración de la demanda en las estaciones de conexión con la red troncal,
+  Demanda TransMiTroncal             manteniendo un comportamiento consistente con la estructura operativa del componente.
+    Troncal - Estaciones y Portales
+    Extensión Soacha                                 Comparación Demanda Mensual                                                 Participación por Estación
+    Componente Dual
+                                     Año 2025 2026
+    Componente TransMiCable
+                                                              0,65 mill. 0,63 mill. 0,68 mill. 0,65 mill. 0,63 mill. 0,62 mill.       11,07%                 Estacion_Parada
+  Demanda TransMiZonal                                                                                                           12,15%                         (40000) Cable Portal Tunal
+    Zonal - Paraderos y Servicios    Validaciones                                                                                                               (40003) Mirador del Paraiso
+    Zonal - Concesionarios                         0,5 mill.                                                                                  48,57%            (40001) Juan Pablo II
+                                                                                                                                                                (40002) Manitas
+  Transbordos                                                                                                                    28,21%
+Índices de eficiencia
+                                                   0,0 mill.
+
+                                                              abril  mayo         junio
+TransMilenio en Cifras                                                                                                                                       Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                                                                  Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                                                                          Componente TransMiCable
+
+Oferta del Sistema                                             Demanda Horaria en Día Hábil Típico (DHT)                                                                                         Demanda Día y Hora Pico Estaciones
+  Concesionarios de Operación
+  Infraestructura                               Fecha miércoles, 08 de abril de 2026 jueves, 07 de mayo de 2026 lunes, 01 de junio de 2026                                        Estación       Validaciones Validaciones Validaciones % Participación
+  Rutas y Servicios
+  Flota del Sistema                                                                                                                                                               Cable Portal   Día          Hora Pico        hora Pico
+                                                                                                                                                                                  Tunal
+Demanda del Sistema                                                                                                                                                               Mirador del                 Mañana           Tarde
+  Temporalidad en la demanda                                                                                                                                                      Paraiso
+  Demanda Total del Sistema                                                            3,0 mil                                                                                    Juan Pablo II                                                 
+  Demanda TransMiTroncal                                                   3 mil                                                                                                  Manitas
+    Troncal - Estaciones y Portales             Demanda Horaria Suavizada                                                                                                         Total               11.707             292              1719    48,64%
+    Extensión Soacha                                                                   3,0 mil
+    Componente Dual                                                                2,0 mil                                                         2,5 mil                                            6.556              1131             179     27,24%
+                                                                           2 mil                                                                   2,2 mil
+    CommppoonneennteteTrTarnasnMsiMCaiCbaleble                                     2,1 mil
+                                                                                                                                                   2,4 mil
+  Demanda TransMiZonal                                                     1 mil 1,3 mil
+    Zonal - Paraderos y Servicios                                                               1,3 mil            1,2 mil                  1,2 mil 1,8 mil  1,1 mil                                   3.036             611              65      12,61%
+    Zonal - Concesionarios                                                 0 mil                 1,0 mil                  1,0 mil           1,1 mil                                                    2.768
+                                                                                                                                            1,2 mil                    0,1 mil                        24.067
+  Transbordos                                                                                             0,7 mil                  0,8 mil                             0,0 mil                                           526              70      11,50%
+Índices de eficiencia
+                                                                                                                 0,8 mil           0,9 mil                                 22:00                                         2560             2033 100,00%
+                                                                                                          0,8 mil
+
+                                                                                                          10:00                             16:00
+
+                                                La demanda horaria en días hábiles típicos (DHT) del componente TransMiCable durante el segundo trimestre de 2026 mantiene un patrón estable, con dos
+                                                picos de demanda claramente definidos. El primero se presenta en la mañana, alrededor de las 6:00 a.m., alcanzando valores cercanos a 3 mil validaciones por
+                                                intervalo. Posteriormente, la demanda disminuye y permanece relativamente estable durante las horas de menor afluencia, para registrar un segundo pico
+                                                entre las 5:00 p.m. y las 6:00 p.m., con valores cercanos a 2,5 mil validaciones. Este comportamiento evidencia una distribución horaria consistente entre abril,
+                                                mayo y junio, asociada a los desplazamientos habituales de los usuarios.
+
+                                                En cuanto a la participación por estación durante el segundo trimestre de 2026, Cable Portal Tunal concentró el mayor volumen de demanda, con el 48,64 % de
+                                                las validaciones promedio por día hábil, consolidándose como el principal punto de acceso del componente. Le siguió Mirador del Paraíso, con una
+                                                participación del 27,24 %, mientras que Juan Pablo II y Manitas representaron el 12,61 % y el 11,50 % de las validaciones, respectivamente. Esta distribución
+                                                refleja la concentración de la demanda en las estaciones que articulan el componente TransMiCable con la red troncal del sistema.
+TransMilenio en Cifras                                                                                                            Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                                       Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                                              Demanda TransMiZonal
+
+Oferta del Sistema                   Desde el inicio del año en curso, hasta el                                                               Demanda Día Hábil Promedio por Semana
+  Concesionarios de Operación        martes, 30 de junio de 2026, el Sistema Zonal
+  Infraestructura                    registro un total de 274.303.942 validaciones.  Año                               2024       2025 2026
+  Rutas y Servicios
+  Flota del Sistema                  Semanas con mayor promedio de validaciones:                            2,2 mill.             2,11 mill.
+                                                                                                                                  2,01 mill.
+Demanda del Sistema                  Trim 1: Semana 6 (validaciones: 2.008.578)                                                                   2,05 mill.  2,07 mill.
+  Temporalidad en la demanda         Trim 2: Semana 19 (validaciones: 1.916.233)
+  Demanda Total del Sistema                                                                                 2,0 mill.                                              1,91 mill.                                  2,03 mill.
+  Demanda TransMiTroncal                                                                                                                                                                            1,85 mill.
+    Troncal - Estaciones y Portales                                                  Promedio Validaciones  1,8 mill.                              1,89 mill.        1,90 mill.
+    Extensión Soacha                                                                                                              1,91 mill. 1,92 mill.                          1,86 mill.
+    Componente Dual                                                                                                                                                                 1,67 mill.
+    Componente TransMiCable                                                                                                                          1,82 mill.
+
+  Demanda TransMiZonal                                                                                      1,6 mill.                                  1,68 mill.         1,67 mill.
+                                                                                                                                                  1,58 mill.
+    Zonal - Paraderos y Servicios    El análisis del promedio de validaciones por                                                                                                                                            1,58 mill.
+    Zonal - Concesionarios                                                                                                                                                                                                 50
+  Transbordos                        día hábil y por semana durante el segundo
+Índices de eficiencia
+                                     trimestre de 2026 muestra un                                           1,4 mill.
+
+                                     comportamiento estable del componente
+
+                                     zonal. Las mayores demandas se registraron                             1,2 mill. 1,22 mill.
+
+                                     en la semana 6 del primer trimestre y en la
+
+                                     semana 19 del segundo trimestre, mientras
+
+                                     que durante el resto del semestre las                                  1,0 mill.
+
+                                     validaciones se mantuvieron alrededor de los
+
+                                     1,9 millones por día hábil, con variaciones
+
+                                     puntuales asociadas a la estacionalidad y al                           0,8 mill. 0,88 mill.
+
+                                     calendario operativo. Hacia el cierre del                                         0                      10                   20                           30  40
+
+                                     periodo se observa una disminución,
+
+                                     alcanzando valores cercanos a 1,58 millones
+
+                                     d lid i  di dí hábil
+TransMilenio en Cifras                                                                               Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                          Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                               Demanda TransMiZonal
+
+Oferta del Sistema                                                                      Demanda Horaria en Día Hábil Típico (DHT) Mensual
+  Concesionarios de Operación
+  Infraestructura                        Fecha miércoles, 08 de abril de 2026 jueves, 07 de mayo de 2026 lunes, 01 de junio de 2026
+  Rutas y Servicios                          200 mil
+  Flota del Sistema
+                                         Demanda Horaria Suavizada  150 mil
+Demanda del Sistema
+  Temporalidad en la demanda                                        100 mil
+  Demanda Total del Sistema
+  Demanda TransMiTroncal                                            50 mil
+    Troncal - Estaciones y Portales
+    Extensión Soacha                                                0 mil
+    Componente Dual
+    Componente TransMiCable                                                  0:00  3:00  6:00  9:00  12:00  15:00                          18:00  21:00
+
+  DemmaannddaaTTrarnasnMsMiZoiZnoanl al          Períodos de máxima demanda: Mañana: 06:00 - 06:59 (184.246 validaciones mediana DHT) | Tarde: 17:00 - 17:59 (151.913 validaciones mediana DHT)
+
+    Zonal - Paraderos y Servicios        El comportamiento horario de la demanda durante el segundo trimestre de 2026 mantiene el patrón característico del componente zonal, con un incremento
+    Zonal - Concesionarios               progresivo desde el inicio de la operación y un primer pico de demanda entre las 6:00 a.m. y las 7:00 a.m., alcanzando aproximadamente 180 mil validaciones por
+  Transbordos                            intervalo. Posteriormente, la demanda disminuye de manera gradual y se estabiliza durante las horas del mediodía, para registrar un segundo pico entre las 5:00
+Índices de eficiencia                    p.m. y las 6:00 p.m., con valores cercanos a 150 mil validaciones. En términos generales, abril, mayo y junio presentan una distribución horaria muy similar,
+                                         observándose una leve disminución en junio, consistente con la estacionalidad asociada al periodo de vacaciones de mitad de año.
+TransMilenio en Cifras                                                                                                Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                           Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                           Demanda TransMiZonal
+
+Oferta del Sistema                                 Comparación Demanda Mensual Trimestre                                                                        Demanda Día Hábil Típico (DHT) Trimestre
+  Concesionarios de Operación
+  Infraestructura                        Año 2025 2026                                                                Sistema ZONAL
+  Rutas y Servicios
+  Flota del Sistema                      60 mill.                       53 mill.                                                                     2,0 mill.  1,91 mill.  1,92 mill.
+                                         40 mill.                                  47 mill.                                                          1,5 mill.
+Demanda del Sistema                                                                                                                                  1,0 mill.                          1,79 mill.
+  Temporalidad en la demanda
+  Demanda Total del Sistema                        49 mill.                                  46 mill.
+  Demanda TransMiTroncal                                      46 mill.                                  43 mill.
+    Troncal - Estaciones y Portales
+    Extensión Soacha                     Validaciones                                                                                                0,5 mill.
+    Componente Dual                                                                                                                    Validaciones
+    Componente TransMiCable              20 mill.
+
+  DemmaannddaaTTrarnasnMsMiZoiZnoanl al                                                                                                              0,0 mill.
+
+    Zonal - Paraderos y Servicios                                                                                                                               abril       mayo        junio
+    Zonal - Concesionarios
+  Transbordos                            0 mill.                                                                                                                            Trim. 2
+Índices de eficiencia
+                                                        abril           mayo                 junio                                                                          2026
+
+                                         En la comparación de la demanda mensual del segundo trimestre, abril         En cuanto a la demanda en día hábil típico (DHT) durante el segundo
+                                         registró cerca de 46 millones de validaciones en 2026, frente a              trimestre de 2026, el promedio diario fue de 1,91 millones de validaciones
+                                         aproximadamente 49 millones en el mismo mes de 2025. En mayo se              en abril, 1,92 millones en mayo y 1,79 millones en junio. Los resultados
+                                         alcanzaron alrededor de 47 millones de validaciones, por debajo de los 53    evidencian una demanda estable entre abril y mayo, seguida de una
+                                         millones registrados el año anterior. Por su parte, junio presentó cerca de  disminución en junio, comportamiento consistente con la estacionalidad
+                                         43 millones de validaciones, frente a los aproximadamente 46 millones        propia del sistema asociada al inicio del periodo de vacaciones de mitad de
+                                         observados en 2025. En conjunto, el componente zonal registró una            año, cuando se reducen los desplazamientos habituales por motivos
+                                         demanda inferior a la del mismo periodo del año anterior, manteniendo un     laborales y académicos.
+                                         comportamiento estable durante el trimestre.
+TransMilenio en Cifras                                                                                                       Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                                  Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                          Demanda promedio diaria y en hora pico ­ Top 10 Paraderos y Servicios
+
+Oferta del Sistema                   Este panel presenta el ranking de la demanda promedio en los principales paraderos zonales durante el segundo trimestre de 2026. El mayor volumen de
+  Concesionarios de Operación        validaciones promedio por día se concentra en la Estación Toberín, con el 14,19 % de participación, seguida por C.C. Centro Suba (11,76 %) y Portal Américas
+  Infraestructura                    (11,09 %). También sobresalen Br. Ciudad Jardín Sur (9,79 %) y Avenida Calle 26 (9,76 %), mientras que los demás paraderos registran participaciones cercanas al
+  Rutas y Servicios                  8 % y 9 %. En conjunto, la distribución evidencia una concentración moderada de la demanda entre los principales puntos de acceso del componente zonal.
+  Flota del Sistema
+                                     En cuanto a los servicios zonales durante el segundo trimestre de 2026, la mayor demanda corresponde al servicio T11, con el 14,68 % de las validaciones del
+Demanda del Sistema                  top 10, seguido por el servicio 330 (11,95 %) y BH907 (10,92 %). También se destacan los servicios T13 (10,59 %), CG147 (9,71 %) y T25 (9,37 %), mientras que los
+  Temporalidad en la demanda         demás servicios presentan participaciones entre el 8 % y el 9 %. Esta distribución refleja una concentración moderada de la demanda en los principales
+  Demanda Total del Sistema          servicios del componente zonal, manteniéndose una participación relativamente equilibrada entre las rutas analizadas.
+  Demanda TransMiTroncal
+    Troncal - Estaciones y Portales  Demanda Día y Hora Pico Top 10 Paraderos                                                                                     Demanda Día y Hora Pico Top 10 Servicios
+    Extensión Soacha
+    Componente Dual                  Paradero                      Validaciones        Validaciones        Validaciones      % Participación            Servicio  Validaciones          Validaciones           Validaciones          % Participación
+    Componente TransMiCable                                        Día                 Hora Pico           Hora Pico                                              Día                   Hora Pico              Hora Pico
+  Demanda TransMiZonal               364A02_Estación Toberín                           Mañana              Tarde                               14,19%   T11                             Mañana                 Tarde                              14,68%
+                                     206A03_C.C Centro Suba                                                                                    11,76%   330                                                                                       11,95%
+    Zonal - Paraderos y Servicios    663A08_Portal Américas                                           348               889                    11,09%   BH907                                            2383                  1803               10,92%
+                                     451A12_Br. Ciudad Jardín Sur               6.721                 372               417                      9,79%  T13                     24.156                   1893                  1644               10,59%
+    Zonal - Concesionarios           168B05_Avenida Calle 26                    5.571                  95               756                      9,76%  CG147                   19.665                   1832                  1446                 9,71%
+  Transbordos                        360A12_Estación Country Sur                5.254                 177               536                      9,55%  T25                     17.968                   1583                  1388                 9,37%
+Índices de eficiencia                900V08_Br. Patio Bonito                    4.636                 294               510                      8,93%  94                      17.422                   1701                  1229                 8,63%
+                                     033A00_Br. Veraguas                        4.625                  85               611                      8,32%  CH131                   15.975                   1436                  1258                 8,22%
+                                     586E13_Estación 1 de Mayo                  4.525                  88               612                      8,31%  614                     15.418                   1410                  1136                 7,98%
+                                     084A12_Br. Sociego Sur                     4.230                 167               446                      8,30%  GC509                   14.205                   1231                  1179                 7,93%
+                                                                                3.940                  84               574                                                     13.526                   1321                  1101
+                                                                                3.935                 123               394                                                     13.132                   1241                  1187
+                                                                                3.934                                                                                           13.042
+TransMilenio en Cifras                                                                         Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                    Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                            El segundo trimestre de 2026 en terminos                  Comparativo Trimestral de Validaciones por Concesionario
+                                     de demanda zonal es liderador por
+Oferta del Sistema                   Consorcio Express y ETIB que mantienen las                (001) CONSORCIO EXPRESS                                                                                                         19 mill.
+  Concesionarios de Operación        mayores participaciones, con niveles de                                                                                                                                                19 mill.
+  Infraestructura                    demanda similares a los registrados en                    (007) ETIB
+  Rutas y Servicios                  años anteriores. Les siguen Masivo Capital                                                                                                                                             20 mill.
+  Flota del Sistema                  Kennedy, Gmóvil y SUMA, que continúan                     (012) MASIVO CAPITAL KENNEDY                                                                                       15 mill.
+                                     ubicándose entre los concesionarios con
+Demanda del Sistema                  mayor volumen de validaciones. En términos                (005) GMOVIL                                                                                             12 mill.
+  Temporalidad en la demanda         generales, la distribución de la demanda
+  Demanda Total del Sistema          conserva una estructura estable entre los                                                       (008) SUMA                                               10 mill.
+  Demanda TransMiTroncal             operadores, observándose variaciones                        (011) CONSORCIO EXPRESS SAN CRISTOBAL
+    Troncal - Estaciones y Portales  moderadas en los niveles de validación          operador                                                                                        7 mill.
+    Extensión Soacha                 respecto a 2024 y 2025, sin cambios                                                       (020) EMASIVO 16                                6 mill.
+    Componente Dual                  significativos en el orden de participación de                                       (004) ESTE ES MI BUS                            5 mill.
+    Componente TransMiCable          los principales concesionarios.                                              (018) GRAN AMERICAS USME                                5 mill.
+  Demanda TransMiZonal                                                                                                                                                   5 mill.
+    Zonal - Paraderos y Servicios                                                                                              (019) EMASIVO 10                        5 mill.
+                                                                                                                          (002) MASIVO CAPITAL                          5 mill.
+    Zonal - Concesionarios                                                                                              (130) MUEVE USME SAS                         4 mill.
+                                                                                                                   (133) ZMO FONTIBON V SAS                         4 mill.
+  Transbordos                                                                                  (134) OPERADORA DISTRITAL DE TRANSPORTE                              4 mill.
+Índices de eficiencia                                                                                              (132) MUEVE FONTIBÓN SAS                     3 mill.
+                                                                                                                   (131) ZMO FONTIBÓN III SAS                 3 mill.
+                                                                                                                     (017) E-SOMOS FONTIBON                2 mill.
+                                                                                                 (014) ESTE ES MI BUS TINTAL ZONA FRANCA                 2 mill.
+                                                                                                             (016) GRAN AMERICAS FONTIBON        0 mill.
+                                                                                                                (015) E-SOMOS ALIMENTACION
+
+                                                                                               0 mill.                                                                                        10 mill.
+
+                                                                                                                                                 Año 2024 2025 2026
+TransMilenio en Cifras                                                         Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público    Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                            Se presenta un resumen de los                    Transbordos
+                                     abordajes iniciales y los transbordos
+Oferta del Sistema                   estimados registrados durante el                        Transbordos Diarios Estimados Trimestrales
+  Concesionarios de Operación        segundo trismestre de 2026. Del total de
+  Infraestructura                    validaciones, los primeros abordajes      54 mill. (20,15%)
+  Rutas y Servicios                  alcanzan aproximadamente 213
+  Flota del Sistema                  millones, equivalentes al 79,85 % del                                                               Tipo Abordaje
+                                     total, mientras que los transbordos                                                                   Primer abordaje
+Demanda del Sistema                  representan cerca de 54 millones, con
+  Temporalidad en la demanda         una participación del 20,15 %. Estos                                                                  Trasbordo
+  Demanda Total del Sistema          resultados evidencian que la mayor
+  Demanda TransMiTroncal             parte de los viajes en el Sistema         213 mill. (79,85%)
+    Troncal - Estaciones y Portales  Integrado de Transporte Público se
+    Extensión Soacha                 realiza mediante un primer abordaje,
+    Componente Dual                  mientras que cerca de una quinta parte
+    Componente TransMiCable          corresponde a integraciones entre
+  Demanda TransMiZonal               servicios, reflejando el papel de la
+    Zonal - Paraderos y Servicios    integración operacional en la movilidad
+    Zonal - Concesionarios           de los usuarios.
+
+  Transbordos
+
+Índices de eficiencia
+TransMilenio en Cifras                                                                                Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                           Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                                                Composición por Tipo de Transbordo Trimestre
+
+Oferta del Sistema                   En el sistema de transporte, los transbordos se clasifican       26 mill. (46,63%)            13 mill. (23,5%)    Transbordos Troncal-Zonal
+  Concesionarios de Operación        según el tipo de conexión realizada:                                                          17 mill. (29,87%)   Transbordos Zonal-Troncal
+  Infraestructura                                                                                                                                      Transbordos Zonal-Zonal
+  Rutas y Servicios                         - Zonal  Zonal
+  Flota del Sistema                         - Zonal  Troncal                                                             Participación por Tipo de Transbordo Trimestre
+                                            - Troncal  Zonal.
+Demanda del Sistema                                                                                              26 mill. (9,62%)                      Primer Abordaje
+  Temporalidad en la demanda         Este panel presenta la composición de los transbordos del           17 mill. (6,16%)                              Transbordos Troncal-Zonal
+  Demanda Total del Sistema          segundo trimestre de 2026 según cada tipo de conexión.           13 mill. (4,85%)                                 Transbordos Zonal-Troncal
+  Demanda TransMiTroncal             Durante el periodo analizado, los transbordos Zonal­Zonal                                                         Transbordos Zonal-Zonal
+    Troncal - Estaciones y Portales  representan el 46,63 % (26 millones), seguidos por los Zonal­
+    Extensión Soacha                 Troncal con el 29,87 % (17 millones), mientras que los                                        213 mill. (79,37%)
+    Componente Dual                  Troncal­Zonal corresponden al 23,50 % (13 millones). Esta
+    Componente TransMiCable          distribución mantiene una composición similar a la observada
+  Demanda TransMiZonal               en periodos anteriores, evidenciando la importancia de las
+    Zonal - Paraderos y Servicios    integraciones entre los componentes zonal y troncal.
+    Zonal - Concesionarios
+                                     Dentro de la composición total de validaciones del segundo
+  Traannssbboorrddooss               trimestre de 2026, los transbordos Zonal­Zonal representan el
+                                     9,62 %, seguidos por los Zonal­Troncal con el 6,16 % y los
+Índices de eficiencia                Troncal­Zonal con el 4,85 %. El 79,37 % restante corresponde a
+                                     los primeros abordajes, equivalentes a aproximadamente 213
+                                     millones de validaciones, lo que evidencia que la mayoría de
+                                     los viajes en el sistema se realiza mediante un único abordaje,
+                                     mientras que cerca de una quinta parte requiere integración
+                                     entre servicios.
+TransMilenio en Cifras                                                                                                         Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                                    Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                    Índices de Eficiencia TransMiTroncal
+
+Oferta del Sistema                                                           Índice de pasajeros por Kilometro                              Tipo Día                       El Índice de Pasajeros por Kilómetro (IPK) es
+  Concesionarios de Operación
+  Infraestructura                                                                          Año 2024 2025 2026                                 Todas             una medida utilizada para evaluar el
+  Rutas y Servicios
+  Flota del Sistema                                                                                                                                                        desempeño del transporte público. Este
+
+Demanda del Sistema                       5                  4,6      4,6    4,6    4,6                         4,6            4,5          4,5       4,6                  índice se calcula dividiendo la cantidad de
+  Temporalidad en la demanda                                 4,2      4,0                                       4,3
+  Demanda Total del Sistema                                  4,6      4,4           4,2                                4,4                                     4,2 pasajeros transportados por la distancia
+  Demanda TransMiTroncal
+    Troncal - Estaciones y Portales  IPK     4,0           febrero  marzo    4,5    4,5      4,0                       4,7                  4,7       4,7      4,3 recorrida en kilómetros.
+    Extensión Soacha
+    Componente Dual                       4  3,6                                             4,4                               4,4
+    Componente TransMiCable
+  Demanda TransMiZonal                       4,0                                                           4,1
+    Zonal - Paraderos y Servicios                                            3,9
+    Zonal - Concesionarios
+  Transbordos                                enero                           abril  mayo     junio              julio  agosto septiembre octubre      noviembre diciembre
+
+Índices de eficiencia                                                               Índice de pasajeros por Bus                                                            El Índice de Pasajeros por Bus (IPB) mide la
+                                                                                                                                                                           cantidad promedio de pasajeros que utiliza
+                                                                                    Año 2024 2025 2026                                                                     un vehículo en un período de tiempo
+                                                                                                                                                                           específico. Este índice se calcula dividiendo el
+                                          1000             895 972      966         943 907 944 877             908    998             939  975 941       976     894      número total de pasajeros transportados por
+                                                      841  963      958                                                939         916                992         923      el número total de buses operativos en ese
+                                                      769                    951    967      956                971                                                        período.
+                                     IPB                            865                                                        septiembre                      diciembre
+                                           800 837                                                         883
+                                                                             835
+                                                    enero
+                                                           febrero marzo     abril  mayo     junio              julio  agosto               octubre noviembre
+
+                                                                                    Índice de kilómetros por Bus                                                           El Índice de Kilómetros por Bus (IKB) mide la
+
+                                                                                    Año 2024 2025 2026                                                                     distancia promedio recorrida por cada
+
+                                          220                                                                                                                              vehículo en un período de tiempo específico.
+                                                    215
+                                                                     216     214             216                                                      214                  Este índice se calcula dividiendo el total de
+                                                    210              212     211
+                                          210                        214            211 216                     213    213                            212      216 kilómetros recorridos por todos los vehículos
+                                                                             208                                       214
+                                     IKB            209      209    marzo                    216                                              209
+                                                   enero     212
+                                                             209                    210                                            207        210              213 operativos entre el número total de vehículos.
+                                                                                                                                   209      octubre
+                                                           febrero                                              209            septiembre
+
+                                                                             abril  mayo     junio              julio  agosto                         noviembre diciembre
+TransMilenio en Cifras                                                                                                          Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público                                                     Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                                                Índices de Eficiencia TransMiZonal
+
+Oferta del Sistema                                                                       Índice de pasajeros por Kilometro                      Tipo Día                      El Índice de Pasajeros por Kilómetro (IPK) es
+  Concesionarios de Operación                                                                                                                                            una medida utilizada para evaluar el
+  Infraestructura                                                                                      Año 2024 2025 2026                         Todas
+  Rutas y Servicios                                                                                                                                                           desempeño del transporte público. Este
+  Flota del Sistema
+                                                          1,48 1,47                      1,41   1,42     1,38   1,41            1,45                  1,48        1,48           índice se calcula dividiendo la cantidad de
+Demanda del Sistema                                                                                      1,33   1,44                      1,48
+  Temporalidad en la demanda              1,4                                      1,43  1,43   1,46                                            1,46        1,47                 pasajeros transportados por la distancia
+  Demanda Total del Sistema                                                              1,37   1,40     1,36
+  Demanda TransMiTroncal             IPK                  1,44       1,44                                              1,42     1,42                                    1,42 recorrida en kilómetros.
+    Troncal - Estaciones y Portales
+    Extensión Soacha                           1,26
+    Componente Dual                                                          1,35
+    Componente TransMiCable
+  Demanda TransMiZonal                         1,31
+    Zonal - Paraderos y Servicios
+    Zonal - Concesionarios                1,2
+  Transbordos
+                                               enero febrero marzo                       abril  mayo     junio  julio  agosto   septiembre      octubre     noviembre diciembre
+ÍÍnndicess ddeeeefifcicieienncicaia
+                                                                                                Índice de pasajeros por Bus         253           256                            El Índice de Pasajeros por Bus (IPB) mide la
+                                                                                                                                    253           266
+                                                                                                Año 2024 2025 2026              septiembre      octubre                          cantidad promedio de pasajeros que utiliza
+
+                                                                                                                                    178           182                            un vehículo en un período de tiempo
+                                                                                                                                    171           173
+                                                                262                      259    257      259           260 254  septiembre      octubre                          específico. Este índice se calcula dividiendo el
+                                                            261
+                                          260               249                                                        263                                  268         266      número total de pasajeros transportados por
+                                                                                                                                                            259         257
+                                     IPB                  febrero     259                255    258             261
+                                                                      252
+                                          240  254                    243                                252                                                                     el número total de buses operativos en ese
+
+                                               243                   marzo                      236 241  233                                                                    período.
+
+                                               enero                                     abril  mayo     junio  julio  agosto                               noviembre diciembre
+
+                                                                                                Índice de kilómetros por Bus                                                     El Índice de Kilómetros por Bus (IKB) mide la
+
+                                                                                                Año 2024 2025 2026                                                               distancia promedio recorrida por cada
+
+                                          200 193                                                                                                                                vehículo en un período de tiempo específico.
+                                          180 193
+                                                                      187                181    181      183    186    185                                              188 Este índice se calcula dividiendo el total de
+                                          160                         180                                                                                               181 kilómetros recorridos por todos los vehículos
+                                     IKB           enero    179       170                172    173      190           175                                  176
+                                                            181 168
+                                                          febrero    marzo               181                    180                                         182                  operativos entre el número total de vehículos.
+
+                                                                                                176      175
+
+                                                                                         abril  mayo     junio  julio  agosto                               noviembre diciembre
+TransMilenio en Cifras                                                       Informe #99
+
+Estadística de oferta y demanda del Sistema Integrado de Transporte Público  Trimestre II - 2026 Inicio Presentación Créditos
+
+Contenido                                                                    ¡GRACIAS!
+
+Oferta del Sistema                                                                   www.transmilenio.gov.co
+  Concesionarios de Operación
+  Infraestructura                    Información base aportada por:          Área encargada:
+  Rutas y Servicios                  Dirección Técnica Zonal.                Dirección Analítica de Datos
+  Flota del Sistema                  Dirección Técnica Troncal.
+                                     Subgerencia de Infraestructura.
+Demanda del Sistema                  Subgerencia Económica.
+  Temporalidad en la demanda
+  Demanda Total del Sistema          Todas las Imágenes son propiedad de TRANSMILENIO S.A. - Todos los derechos reservados -
+  Demanda TransMiTroncal
+    Troncal - Estaciones y Portales
+    Extensión Soacha
+    Componente Dual
+    Componente TransMiCable
+  Demanda TransMiZonal
+    Zonal - Paraderos y Servicios
+    Zonal - Concesionarios
+  Transbordos
+
+Índices de eficiencia
+
