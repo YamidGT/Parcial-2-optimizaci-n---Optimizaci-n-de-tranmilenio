@@ -19,8 +19,11 @@ Parcial 2 aplicado de Optimización (Universidad Nacional de Colombia, 2026), Es
 - `documento/`: avance del Bloque A y resumen del proyecto (Word).
 
 ## Cómo ejecutar
+**En Google Colab:** abrir [el notebook en Colab](https://colab.research.google.com/github/YamidGT/Parcial-2-optimizaci-n---Optimizaci-n-de-tranmilenio/blob/main/parcial2_nqs.ipynb) y usar *Entorno de ejecución → Ejecutar todo*. La primera celda de código clona este repositorio, instala las dependencias y prepara los datos. Para solo ver los resultados no hace falta ejecutar: el notebook está guardado con sus salidas.
+
+**En local:**
 ```bash
-pip install pulp numpy scipy pandas matplotlib networkx jupyter
+pip install "pulp>=4.1" highspy numpy scipy pandas matplotlib networkx jupyter
 python preparar_datos.py
 jupyter nbconvert --to notebook --execute --inplace parcial2_nqs.ipynb
 ```
