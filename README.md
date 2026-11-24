@@ -27,7 +27,7 @@ pip install "pulp>=4.1" highspy numpy scipy pandas matplotlib networkx jupyter
 python preparar_datos.py
 jupyter nbconvert --to notebook --execute --inplace parcial2_nqs.ipynb
 ```
-Probado con Python 3.13, PuLP 4.1 (solver HiGHS incluido), NumPy 2.5, SciPy 1.18, pandas 3.0, matplotlib 3.10 y networkx 3.7. La ejecución completa tarda unos 12 minutos, sobre todo por el MILP de la instancia grande del Bloque C (límite de 180 s).
+Probado con Python 3.13, PuLP 4.1 con el solver HiGHS (paquete highspy), NumPy 2.5, SciPy 1.18, pandas 3.0, matplotlib 3.10 y networkx 3.7. La ejecución completa tarda unos 12 minutos, sobre todo por el MILP de la instancia grande del Bloque C (límite de 180 s).
 
 ## Fuentes de datos
 - Portal de Datos Abiertos de Bogotá: salidas del sistema troncal por franja horaria, flota vinculada.
